@@ -1,0 +1,10 @@
+﻿python : INFO:__main__:Bot started...
+    + CategoryInfo          : NotSpecified: (INFO:__main__:Bot started...:String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+INFO:httpx:HTTP Request: POST https://api.telegram.org/bot8639043211:AAFX8V_94OqrDy5-hFlYWVWhUVCT43RW9fY/getMe 
+"HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.telegram.org/bot8639043211:AAFX8V_94OqrDy5-hFlYWVWhUVCT43RW9fY/deleteWebhook 
+"HTTP/1.1 200 OK"
+INFO:apscheduler.scheduler:Scheduler started
+INFO:telegram.ext.Application:Application started
