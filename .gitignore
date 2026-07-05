@@ -6,3 +6,4 @@ venv/
 bot_log.txt
 test_*.py
 *.log
+test_*.py
